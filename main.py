@@ -1,4 +1,5 @@
 import pygame
+import pygame
 from pygame.locals import *
 
 # import  plauer_hero
